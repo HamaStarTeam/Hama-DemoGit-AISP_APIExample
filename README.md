@@ -25,9 +25,9 @@ Install requirements.txt in a Python>=3.7.0 environment
 ```bash
 pip install -r requirements.txt 
 ```
-Run the SDK.py in your command line
+Run the SDK_Image.py in your command line
 ```bash
-python SDK.py
+python SDK_Image.py
 ``` 
 now you can use postman post it, and check the format is correct   
 <img width="850" src="https://raw.githubusercontent.com/HamaStarTeam/Hama-DemoGit-AISP_APIExample/master/ImageForReadMe/PostmanImage.png">
